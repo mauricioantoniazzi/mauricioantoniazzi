@@ -1,7 +1,7 @@
 ### Mauricio Antoniazzi :)
-Analista de Sistemas especialista em Gestão e Qualidade de Software. Atualmente trabalhando com desenvolvedor Angualar/NodeJS e Java Springboot
+Analista de Sistemas especialista em Gestão e Qualidade de Software. Atualmente trabalhando com0 desenvolvedor Angualar/NodeJS e Java Springboot
 
- - 🖥️ Desenvolvedor FullStack
+ - 🖥️ Desenvolvedor FullStack | Technical Leader Specialist
  - 📘 Estudando **Ciência de Dados** e apaixonado por **Análise de Dados** e **Machining Learning**
  - 📚 Gosto por leitura
  - 💻 Atualmente estou mais focado em:
