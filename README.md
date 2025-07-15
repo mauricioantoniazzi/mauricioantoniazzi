@@ -1,16 +1,20 @@
-## Hi there 👋
+### Mauricio Antoniazzi :)
+Analista de Sistemas especialista em Gestão e Qualidade de Software. Atualmente trabalhando com desenvolvedor Angualar/NodeJS e Java Springboot
 
-<!--
-**mauricioantoniazzi/mauricioantoniazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🖥️ Desenvolvedor FullStack
+ - 📘 Estudando **Ciência de Dados** e apaixonado por **Análise de Dados** e **Machining Learning**
+ - 📚 Gosto por leitura
+ - 💻 Atualmente estou mais focado em:
 
-Here are some ideas to get you started:
+  <div display="inline">
+    <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**
+### Você também me encontra em:
+<a href="https://www.linkedin.com/in/mauricio-antoniazzi-29435594/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+          
+</a>
