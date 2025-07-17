@@ -4,12 +4,12 @@ Analista de Sistemas especialista em Gestão e Qualidade de Software. Atualmente
  - 🖥️ Desenvolvedor FullStack | Technical Leader Specialist
  - 📘 Estudando **Ciência de Dados** e apaixonado por **Análise de Dados** e **Machining Learning**
  - 📚 Gosto por leitura
- - 💻 Atualmente estou mais focado em:
+ - 💻 Atualmente estou mais focado no estudo e aprendizado em Ciência de Dados:
 
-  <div display="inline">
-    <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-    <img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+ <div display="inline">
+    &nbsp;&nbsp;<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    &nbsp;&nbsp;<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+   &nbsp;&nbsp;<img with="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
   </div>
 
 <hr>
